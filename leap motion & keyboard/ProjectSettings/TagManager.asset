@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Right_Finger
+  - Left_Finger
+  - Object
+  - PlayerTextOutput
+  - keypad
+  - SoundHandler
+  - Left_Thumb
+  - Right_Thumb
+  - Left_Index
+  - Right_Index
+  - Left_Middle
+  - Right_Middle
+  - Left_Pinky
+  - Right_Pinky
+  - Left_Ring
+  - Right_Ring
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
