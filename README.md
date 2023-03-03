@@ -12,3 +12,6 @@ https://user-images.githubusercontent.com/63523334/187390842-8769f99a-0383-46f6-
 
 https://user-images.githubusercontent.com/63523334/187390870-07a8ea3e-feee-4614-b4e1-761005aac5a9.mp4
 
+[발표자료]
+
+[발표자료.pdf](https://github.com/SNG0407/VR-Haptic-Keyboard/files/10877528/default.pdf)
